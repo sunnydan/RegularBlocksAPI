@@ -1,0 +1,9 @@
+blueprint
+rotation:   [] [y] []
+reflection: [] [] []
+
+cobblestone -
+cobblestone cobblestone
+---
+anyfence -
+anymaterial solid

@@ -1,0 +1,19 @@
+blueprint
+rotation:   [o] [y] [o]
+reflection: [x] [y] [z]
+
+gold_block
+---
+anyfence
+---
+anyfence
+---
+anyfence
+---
+anyfence
+---
+wool wool wool wool
+---
+wool wool wool wool
+---
+wool wool wool wool

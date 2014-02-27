@@ -1,0 +1,8 @@
+blueprint
+rotation:   [] [] []
+reflection: [] [] []
+
+cobblestone cobblestone cobblestone cobblestone -
+cobblestone water water cobblestone -
+cobblestone water water cobblestone -
+cobblestone cobblestone cobblestone cobblestone -

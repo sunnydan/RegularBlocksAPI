@@ -1,0 +1,19 @@
+constrainedcuboid
+rotation:   [] [] []
+reflection: [] [] []
+[constraints]
+mindoors: 1
+mincapacity: 2
+[constraints]
+
+solid,occluding,notgravity solid,occluding,notgravity solid,occluding,notgravity
+solid,occluding,notgravity solid,occluding,notgravity solid,occluding,notgravity
+solid,occluding,notgravity solid,occluding,notgravity solid,occluding,notgravity
+---
+solid,occluding,notgravity solid,notgravity solid,occluding,notgravity
+solid,notgravity anymaterial solid,notgravity
+solid,occluding,notgravity solid,notgravity solid,occluding,notgravity
+---
+solid,occluding,notgravity solid,occluding,notgravity solid,occluding,notgravity
+solid,occluding,notgravity solid,occluding,notgravity solid,occluding,notgravity
+solid,occluding,notgravity solid,occluding,notgravity solid,occluding,notgravity
